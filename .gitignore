@@ -1,0 +1,61 @@
+# 仮想環境
+.venv/
+env/
+venv/
+ENV/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Pythonバイトコード
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOSのシステムファイル
+.DS_Store
+
+# ログファイル
+*.log
+
+# パッケージングファイル
+dist/
+build/
+eggs/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+lib/
+lib64/
+
+# インストールされたパッケージファイル
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# テストやカバレッジ
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# ビルドツール
+*.mo
+*.pot
