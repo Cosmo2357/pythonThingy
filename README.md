@@ -1,10 +1,10 @@
 # FastAPI, Elasticsearch, OpenAI, LangChain, jupyter notebook, Redis etc,
 
 ### 環境
-Python3.11.3
+Python3.11.3 
 
 ## 概要
-FastAPI, Elasticsearch, OpenAI, LangChain, jupyter notebook, Redis等の技術検証用のリポジトリです。
+FastAPI, Elasticsearch, OpenAI, LangChain, jupyter notebook, Redis等の 技術検証用のリポジトリです。
 
 ## 環境変数
 OPENAI_API_KEY=
